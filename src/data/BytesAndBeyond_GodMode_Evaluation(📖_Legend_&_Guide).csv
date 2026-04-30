@@ -1,0 +1,13 @@
+BytesAndBeyond  ·  Evaluation Guide & Scoring Framework,,,,,,,
+,,,,,,,
+Metric,Color,What it Measures,1 — Poor,2,3 — Average,4,5 — Excellent
+Content Quality,?,"Was content informative, accurate and valuable?","Off-topic, confusing",Decent but gaps,Solid but not deep,"Good depth, minor gaps","Rich, accurate, impactful"
+Session Flow,?,Was content structured in logical order?,Random jumps,Some structure,Mostly logical,"Good flow, minor issues",Smooth perfect progression
+Presenter Clarity,?,"Clear, confident, easy to understand?",Hard to follow,Partially clear,Mostly clear,Clear with minor issues,Crystal clear delivery
+Interactivity,?,Engaging and two-way?,One-way monologue,1-2 questions only,Some Q&A,Good interaction,"Fully two-way, icebreaker done"
+Hands-on Value,?,Demos or try-it moments?,No hands-on,Slide-only demo,Light walkthrough,Good demo,Rich live build + try-it
+Time Management,?,Session within 60 minutes?,30+ min overrun,15-30 min over,5-15 min over,Within 5 min,Perfect 60 min
+Relevance,?,Topic relevant to team's work?,Irrelevant,Tangentially relevant,Somewhat relevant,Mostly relevant,Highly relevant & timely
+,,,,,,,
+OVERALL SCORE = (Avg Attendee Rating / 5 × 5) × 60%  +  (Organiser Checks Passed / 3 × 5) × 40%  ?  Max = 5.0,,,,,,,
+A+ (4.5–5.0): Outstanding — benchmark session,A  (4.0–4.4): Excellent — minor tweaks needed,B+ (3.5–3.9): Good — clear improvement areas,B  (3.0–3.4): Average — needs work,C  (<3.0): Poor — significant improvements needed,,,
