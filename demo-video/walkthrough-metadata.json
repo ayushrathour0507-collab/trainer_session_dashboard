@@ -1,0 +1,131 @@
+{
+  "title": "BytesAndBeyond Full HD Walkthrough",
+  "voice": "en-IN-PrabhatNeural",
+  "resolution": "1920x1080",
+  "fps": 30,
+  "durationSeconds": 203.6,
+  "video": "bytesandbeyond-fullhd-walkthrough.mp4",
+  "captions": "captions.vtt",
+  "chapters": [
+    {
+      "id": "01-trainer-dashboard",
+      "section": "Trainer Portal",
+      "title": "Trainer Dashboard",
+      "subtitle": "Personal performance, assigned sessions, improvement tips, and notifications in one place.",
+      "narration": "First, let us start with the trainer portal. The dashboard gives every trainer a quick view of their sessions delivered, average score, best score, verdict badge, latest notifications, and improvement tips. This helps the trainer understand where they stand before checking detailed feedback.",
+      "start": 0.0,
+      "end": 22.43,
+      "duration": 22.43,
+      "slide": "build/slides/01-trainer-dashboard.png",
+      "audio": "build/audio/01-trainer-dashboard.mp3"
+    },
+    {
+      "id": "02-trainer-sessions",
+      "section": "Trainer Portal",
+      "title": "My Sessions",
+      "subtitle": "Trainers can track completed, upcoming, and assigned KT sessions without admin access.",
+      "narration": "In My Sessions, trainers can see the sessions assigned to them and the sessions already delivered. Each card shows the topic, date, status, rating, attendance, and feedback count, so the trainer has a clean record of their KT journey.",
+      "start": 22.43,
+      "end": 41.019999999999996,
+      "duration": 18.59,
+      "slide": "build/slides/02-trainer-sessions.png",
+      "audio": "build/audio/02-trainer-sessions.mp3"
+    },
+    {
+      "id": "03-trainer-feedback",
+      "section": "Trainer Portal",
+      "title": "Anonymous Feedback",
+      "subtitle": "Published responses are visible one by one, but attendee identity stays hidden from trainers.",
+      "narration": "The feedback page shows published attendee responses anonymously. Trainers can read one response at a time, learn what worked well, and improve based on common suggestions. Admin approval controls what becomes visible here.",
+      "start": 41.019999999999996,
+      "end": 59.51,
+      "duration": 18.490000000000002,
+      "slide": "build/slides/03-trainer-feedback.png",
+      "audio": "build/audio/03-trainer-feedback.mp3"
+    },
+    {
+      "id": "04-admin-dashboard",
+      "section": "Admin Portal",
+      "title": "Admin Command Center",
+      "subtitle": "Ayush can monitor KPIs, activity, pending actions, notifications, and monthly performance.",
+      "narration": "Now we move to the admin portal. The admin dashboard is the command center for Ayush. It shows total sessions, completed and upcoming sessions, average score, feedback volume, active trainers, pending actions, notifications, and performance trends.",
+      "start": 59.51,
+      "end": 79.9,
+      "duration": 20.39,
+      "slide": "build/slides/04-admin-dashboard.png",
+      "audio": "build/audio/04-admin-dashboard.mp3"
+    },
+    {
+      "id": "05-admin-sessions",
+      "section": "Admin Portal",
+      "title": "Nexus Session Board",
+      "subtitle": "ClickUp-style schedule management with assignee, priority, due date, and module status.",
+      "narration": "The session board keeps the Nexus module schedule in one place. Admin can review task names, assignees, priority, due dates, module status, and open actions like edit, evaluation, poster generation, and announcement generation.",
+      "start": 79.9,
+      "end": 98.85000000000001,
+      "duration": 18.950000000000003,
+      "slide": "build/slides/05-admin-sessions.png",
+      "audio": "build/audio/05-admin-sessions.mp3"
+    },
+    {
+      "id": "06-admin-evaluate",
+      "section": "Admin Portal",
+      "title": "Admin Insights & Rating",
+      "subtitle": "Trainer rating combines attendee feedback with mandatory organiser checks and admin insight.",
+      "narration": "After a session is complete, admin enters the evaluation. The score is not decided only by attendee feedback. Admin also confirms things like start on time, completion on time, icebreaker, Q and A, structure, clarity, practicality, interaction, and time efficiency. Only after these inputs are saved, the system calculates the overall rating and verdict.",
+      "start": 98.85000000000001,
+      "end": 128.98000000000002,
+      "duration": 30.130000000000003,
+      "slide": "build/slides/06-admin-evaluate.png",
+      "audio": "build/audio/06-admin-evaluate.mp3"
+    },
+    {
+      "id": "07-admin-feedback",
+      "section": "Admin Portal",
+      "title": "Feedback Collection",
+      "subtitle": "Microsoft Forms responses can be parsed, reviewed, summarised, and controlled before publishing.",
+      "narration": "In feedback management, admin can paste Microsoft Forms export data, parse responses, connect them with the correct session, review individual responses, and generate a collective summary for Teams or internal updates.",
+      "start": 128.98000000000002,
+      "end": 145.91000000000003,
+      "duration": 16.93,
+      "slide": "build/slides/07-admin-feedback.png",
+      "audio": "build/audio/07-admin-feedback.mp3"
+    },
+    {
+      "id": "08-admin-poster",
+      "section": "Admin Portal",
+      "title": "Poster Generator",
+      "subtitle": "A live poster form auto-fills presenter, topic, date, time, topics, and requirements.",
+      "narration": "The poster generator works like a live poster form. It automatically uses session data such as presenter, topic, date, time, meeting link, topics, requirements, and status, and gives admin a polished preview that can be downloaded.",
+      "start": 145.91000000000003,
+      "end": 163.97000000000003,
+      "duration": 18.060000000000002,
+      "slide": "build/slides/08-admin-poster.png",
+      "audio": "build/audio/08-admin-poster.mp3"
+    },
+    {
+      "id": "09-admin-announce",
+      "section": "Admin Portal",
+      "title": "Announcement Generator",
+      "subtitle": "Generate pre-session, reminder, wrap-up, postponement, and reschedule messages.",
+      "narration": "The announcement generator creates ready-to-copy Teams messages. Admin can choose pre-session, reminder, wrap-up, postponement, or reschedule formats, edit the generated text, and copy the final message instantly.",
+      "start": 163.97000000000003,
+      "end": 180.45000000000002,
+      "duration": 16.48,
+      "slide": "build/slides/09-admin-announce.png",
+      "audio": "build/audio/09-admin-announce.mp3"
+    },
+    {
+      "id": "10-leaderboard",
+      "section": "Admin & Public View",
+      "title": "Leaderboard & Winners",
+      "subtitle": "Monthly winners and trainer rankings are calculated from overall scores, not raw feedback alone.",
+      "narration": "Finally, the leaderboard ranks trainers by average overall score. Monthly winners are calculated using the combined score, where attendee feedback has major impact, but admin insights and organiser checks are mandatory. This keeps the KT programme fair, transparent, and action oriented.",
+      "start": 180.45000000000002,
+      "end": 203.60000000000002,
+      "duration": 23.150000000000002,
+      "slide": "build/slides/10-leaderboard.png",
+      "audio": "build/audio/10-leaderboard.mp3"
+    }
+  ]
+}

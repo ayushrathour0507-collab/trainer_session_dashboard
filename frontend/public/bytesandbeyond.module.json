@@ -1,0 +1,22 @@
+{
+  "id": "bytesandbeyond",
+  "name": "BytesAndBeyond",
+  "type": "nexus-module",
+  "version": "1.0.0",
+  "routeBase": "/modules/bytesandbeyond",
+  "apiBase": "/api",
+  "icon": "/logo.svg",
+  "roles": ["admin", "trainer", "viewer"],
+  "entry": {
+    "public": "/",
+    "admin": "/admin",
+    "trainer": "/trainer/dashboard"
+  },
+  "navigation": [
+    { "label": "Home", "path": "/" },
+    { "label": "Sessions", "path": "/sessions" },
+    { "label": "Leaderboard", "path": "/leaderboard" },
+    { "label": "Admin", "path": "/admin", "roles": ["admin"] },
+    { "label": "Trainer", "path": "/trainer/dashboard", "roles": ["trainer"] }
+  ]
+}

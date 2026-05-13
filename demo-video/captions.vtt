@@ -1,0 +1,31 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:22.430
+First, let us start with the trainer portal. The dashboard gives every trainer a quick view of their sessions delivered, average score, best score, verdict badge, latest notifications, and improvement tips. This helps the trainer understand where they stand before checking detailed feedback.
+
+00:00:22.430 --> 00:00:41.019
+In My Sessions, trainers can see the sessions assigned to them and the sessions already delivered. Each card shows the topic, date, status, rating, attendance, and feedback count, so the trainer has a clean record of their KT journey.
+
+00:00:41.019 --> 00:00:59.510
+The feedback page shows published attendee responses anonymously. Trainers can read one response at a time, learn what worked well, and improve based on common suggestions. Admin approval controls what becomes visible here.
+
+00:00:59.510 --> 00:01:19.900
+Now we move to the admin portal. The admin dashboard is the command center for Ayush. It shows total sessions, completed and upcoming sessions, average score, feedback volume, active trainers, pending actions, notifications, and performance trends.
+
+00:01:19.900 --> 00:01:38.850
+The session board keeps the Nexus module schedule in one place. Admin can review task names, assignees, priority, due dates, module status, and open actions like edit, evaluation, poster generation, and announcement generation.
+
+00:01:38.850 --> 00:02:08.980
+After a session is complete, admin enters the evaluation. The score is not decided only by attendee feedback. Admin also confirms things like start on time, completion on time, icebreaker, Q and A, structure, clarity, practicality, interaction, and time efficiency. Only after these inputs are saved, the system calculates the overall rating and verdict.
+
+00:02:08.980 --> 00:02:25.910
+In feedback management, admin can paste Microsoft Forms export data, parse responses, connect them with the correct session, review individual responses, and generate a collective summary for Teams or internal updates.
+
+00:02:25.910 --> 00:02:43.970
+The poster generator works like a live poster form. It automatically uses session data such as presenter, topic, date, time, meeting link, topics, requirements, and status, and gives admin a polished preview that can be downloaded.
+
+00:02:43.970 --> 00:03:00.450
+The announcement generator creates ready-to-copy Teams messages. Admin can choose pre-session, reminder, wrap-up, postponement, or reschedule formats, edit the generated text, and copy the final message instantly.
+
+00:03:00.450 --> 00:03:23.600
+Finally, the leaderboard ranks trainers by average overall score. Monthly winners are calculated using the combined score, where attendee feedback has major impact, but admin insights and organiser checks are mandatory. This keeps the KT programme fair, transparent, and action oriented.

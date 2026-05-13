@@ -1,0 +1,73 @@
+// Purpose: Extends Tailwind with Nexus CSS-variable design tokens, typography, spacing, radius, and shadows.
+/** @type {import('tailwindcss').Config} */
+export default {
+  darkMode: ["class", '[data-theme="dark"]'],
+  content: ["./index.html", "./src/**/*.{js,jsx}"],
+  theme: {
+    extend: {
+      colors: {
+        accent: { DEFAULT: "var(--accent)", hover: "var(--accent-hover)", soft: "var(--accent-glow)" },
+        navy: "var(--navy)",
+        midBlue: "var(--mid-blue)",
+        success: "var(--success)",
+        warning: "var(--warning)",
+        danger: "var(--danger)",
+        info: "var(--info)",
+        purple: "var(--purple)",
+        teal: "var(--teal)",
+        orange: "var(--orange)",
+        muted: "var(--muted)",
+        surface: "var(--surface)",
+        elevated: "var(--surface-elevated)",
+        border: "var(--border)",
+        textPrimary: "var(--text-primary)",
+        textSecondary: "var(--text-secondary)",
+        textMuted: "var(--text-muted)",
+        light: {
+          primary: "var(--bg-primary)",
+          secondary: "var(--bg-secondary)",
+          surface: "var(--surface)",
+          border: "var(--border)",
+          text: "var(--text-primary)",
+          subtext: "var(--text-secondary)",
+        },
+        dark: {
+          primary: "var(--bg-primary)",
+          secondary: "var(--bg-secondary)",
+          surface: "var(--surface)",
+          border: "var(--border)",
+          text: "var(--text-primary)",
+          subtext: "var(--text-secondary)",
+        },
+      },
+      spacing: {
+        xs: "var(--sp-xs)",
+        sm: "var(--sp-sm)",
+        md: "var(--sp-md)",
+        lg: "var(--sp-lg)",
+        xl: "var(--sp-xl)",
+        xxl: "var(--sp-xxl)",
+      },
+      borderRadius: {
+        sm: "var(--r-sm)",
+        md: "var(--r-md)",
+        lg: "var(--r-lg)",
+        card: "var(--r-lg)",
+        button: "var(--r-md)",
+        pill: "var(--r-pill)",
+      },
+      fontFamily: {
+        sans: ["Nunito", "system-ui", "sans-serif"],
+        display: ["Nunito", "system-ui", "sans-serif"],
+        mono: ["JetBrains Mono", "monospace"],
+      },
+      boxShadow: {
+        card: "var(--shadow-card)",
+        glow: "var(--shadow-glow)",
+        high: "var(--shadow-high)",
+        inset: "var(--shadow-inset)",
+      },
+    },
+  },
+  plugins: [],
+};

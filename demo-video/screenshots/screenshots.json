@@ -1,0 +1,76 @@
+{
+  "generatedAt": "2026-05-06T11:54:58.149Z",
+  "clientUrl": "http://localhost:3000",
+  "captures": [
+    {
+      "id": "01-trainer-dashboard",
+      "role": "trainer",
+      "path": "/trainer/dashboard",
+      "title": "Trainer Dashboard",
+      "filePath": "C:\\Users\\AyushRathour\\projects ai\\Tech talks codex\\bytesandbeyond\\demo-video\\screenshots\\01-trainer-dashboard.png"
+    },
+    {
+      "id": "02-trainer-sessions",
+      "role": "trainer",
+      "path": "/trainer/sessions",
+      "title": "Trainer Sessions",
+      "filePath": "C:\\Users\\AyushRathour\\projects ai\\Tech talks codex\\bytesandbeyond\\demo-video\\screenshots\\02-trainer-sessions.png"
+    },
+    {
+      "id": "03-trainer-feedback",
+      "role": "trainer",
+      "path": "/trainer/feedback",
+      "title": "Trainer Feedback",
+      "filePath": "C:\\Users\\AyushRathour\\projects ai\\Tech talks codex\\bytesandbeyond\\demo-video\\screenshots\\03-trainer-feedback.png"
+    },
+    {
+      "id": "04-admin-dashboard",
+      "role": "admin",
+      "path": "/admin",
+      "title": "Admin Dashboard",
+      "filePath": "C:\\Users\\AyushRathour\\projects ai\\Tech talks codex\\bytesandbeyond\\demo-video\\screenshots\\04-admin-dashboard.png"
+    },
+    {
+      "id": "05-admin-sessions",
+      "role": "admin",
+      "path": "/admin/sessions",
+      "title": "Session Management",
+      "filePath": "C:\\Users\\AyushRathour\\projects ai\\Tech talks codex\\bytesandbeyond\\demo-video\\screenshots\\05-admin-sessions.png"
+    },
+    {
+      "id": "06-admin-evaluate",
+      "role": "admin",
+      "path": "/admin/evaluate/69fb1283bfa881271e41fb01",
+      "title": "Evaluation Entry",
+      "filePath": "C:\\Users\\AyushRathour\\projects ai\\Tech talks codex\\bytesandbeyond\\demo-video\\screenshots\\06-admin-evaluate.png"
+    },
+    {
+      "id": "07-admin-feedback",
+      "role": "admin",
+      "path": "/admin/feedback",
+      "title": "Feedback Management",
+      "filePath": "C:\\Users\\AyushRathour\\projects ai\\Tech talks codex\\bytesandbeyond\\demo-video\\screenshots\\07-admin-feedback.png"
+    },
+    {
+      "id": "08-admin-poster",
+      "role": "admin",
+      "path": "/admin/poster/69fb1283bfa881271e41fb01",
+      "title": "Poster Generator",
+      "filePath": "C:\\Users\\AyushRathour\\projects ai\\Tech talks codex\\bytesandbeyond\\demo-video\\screenshots\\08-admin-poster.png"
+    },
+    {
+      "id": "09-admin-announce",
+      "role": "admin",
+      "path": "/admin/announce/69fb1283bfa881271e41fb01",
+      "title": "Announcement Generator",
+      "filePath": "C:\\Users\\AyushRathour\\projects ai\\Tech talks codex\\bytesandbeyond\\demo-video\\screenshots\\09-admin-announce.png"
+    },
+    {
+      "id": "10-leaderboard",
+      "role": "admin",
+      "path": "/leaderboard",
+      "title": "Leaderboard",
+      "filePath": "C:\\Users\\AyushRathour\\projects ai\\Tech talks codex\\bytesandbeyond\\demo-video\\screenshots\\10-leaderboard.png"
+    }
+  ]
+}
